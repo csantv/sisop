@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+// TODO: bruh
 var (
 	buffer = [5]int{-1, -1, -1, -1, -1}
 	index  int
