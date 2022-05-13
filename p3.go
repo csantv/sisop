@@ -1,6 +1,10 @@
 package main
 
-/*
+import (
+	"fmt"
+	"sync"
+)
+
 var (
 	buffer = [5]int{-1, -1, -1, -1, -1}
 	index  int
@@ -42,5 +46,3 @@ func main() {
 	go productor()
 	wg.Wait()
 }
-
-*/

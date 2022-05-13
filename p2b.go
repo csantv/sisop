@@ -1,10 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"sync"
-)
-
+/*
 func pa() {
 	mu1.Lock()
 	fmt.Printf("A")
@@ -74,3 +70,4 @@ func main() {
 	wg.Wait()
 	fmt.Printf("\n")
 }
+*/
